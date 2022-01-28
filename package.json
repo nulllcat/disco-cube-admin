@@ -23,7 +23,7 @@
     "date-fns": "^2.11.1",
     "effector": "^20.12.2",
     "effector-react": "^20.6.3",
-    "firebase": "^8.0.1",
+    "firebase": "^9.6.5",
     "gls": "^3.0.1",
     "io-ts": "^2.1.2",
     "less": "^3.11.1",
