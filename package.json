@@ -28,7 +28,7 @@
     "io-ts": "^2.1.2",
     "less": "^3.11.1",
     "pixi-sound": "^3.0.4",
-    "pixi.js": "^5.2.1",
+    "pixi.js": "^6.1.0",
     "react": "^16.13.0",
     "react-app-rewired": "^2.1.5",
     "react-color": "^2.18.0",
